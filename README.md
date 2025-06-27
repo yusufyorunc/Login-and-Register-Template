@@ -15,7 +15,3 @@ A simple and customizable template for user login and registration systems. This
 1. Clone the repository.
 2. Follow the setup instructions in the project files.
 3. Customize the template as needed for your application.
-
-## License
-
-This project is licensed under the MIT License.
